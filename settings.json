@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wsl python3 *fill_document.py*)",
+      "Bash(wsl python3 *)",
+      "Bash(wsl pip install *)"
+    ]
+  }
+}
